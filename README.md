@@ -2,7 +2,7 @@ Here's a README for your Streamlit application, designed for a GitHub repository
 
 -----
 
-**Content-Creation-and-Summarization**
+# Content-Creation-and-Summarization
 
 ## Overview
 
